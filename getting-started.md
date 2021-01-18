@@ -6,7 +6,7 @@ Let's go through this to set up your repo:
 
 - [ ] you can navigate the links between your notes by `ctrl+click` on a wikilink. Here, go to your [[inbox]]
 
-- [ ] to see how your notes are connected, execute the `Foam: Show Graph` command. Where is the `show graph` command?
+- [ ] to see how your notes are connected, open command palette (ctrl-shift-p) and type `Foam: Show Graph`.
   - **tip** - `cmd+click` on a node to navigate to it
   - **tip** - keep the graph open. As you navigate your files, it will focus on the active note, so you can at a glance see how it's connected in your knowledge base
 
